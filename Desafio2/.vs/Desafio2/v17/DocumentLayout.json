@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 3\\PROGRA I\\Windows Form 2\\Desafio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B43BA17-4B15-49DB-B0F7-248667D84A14}|Desafio2\\Desafio2.csproj|C:\\Users\\CELESTE ORE\\Documents\\Semestre 3\\PROGRA I\\Windows Form 2\\Desafio2\\desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B43BA17-4B15-49DB-B0F7-248667D84A14}|Desafio2\\Desafio2.csproj|solutionrelative:desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B43BA17-4B15-49DB-B0F7-248667D84A14}|Desafio2\\Desafio2.csproj|c:\\users\\celeste ore\\documents\\semestre 3\\progra i\\windows form 2\\desafio2\\desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B43BA17-4B15-49DB-B0F7-248667D84A14}|Desafio2\\Desafio2.csproj|solutionrelative:desafio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 3\\PROGRA I\\Windows Form 2\\Desafio2\\Desafio2\\Form1.cs",
+              "RelativeDocumentMoniker": "Desafio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 3\\PROGRA I\\Windows Form 2\\Desafio2\\Desafio2\\Form1.cs",
+              "RelativeToolTip": "Desafio2\\Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:55:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 3\\PROGRA I\\Windows Form 2\\Desafio2\\Desafio2\\Form1.cs",
+              "RelativeDocumentMoniker": "Desafio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\CELESTE ORE\\Documents\\Semestre 3\\PROGRA I\\Windows Form 2\\Desafio2\\Desafio2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Desafio2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:34:52.89Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
